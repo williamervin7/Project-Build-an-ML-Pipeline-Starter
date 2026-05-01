@@ -179,3 +179,5 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## W and B project link: [W and B](https://wandb.ai/william7ervin-william/nyc_airbnb?nw=nwuserwilliam7ervin)
